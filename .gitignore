@@ -1,0 +1,7 @@
+xcuserstate
+DerivedData
+*.xcuserstate
+*.xcscmblueprint
+*.gcda
+*.gcno
+*.pbxuser
