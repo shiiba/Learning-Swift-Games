@@ -1,11 +1,13 @@
 #!/usr/bin/swift
 //
-//  main.swift
+//  connect4.swift
 //  ConnectFour
 //
 //  Created by Kevin Shiiba on 1/2/16.
 //  Copyright © 2016 Kevin Shiiba. All rights reserved.
+// 
 //
+// command line: ./connect4.swift
 
 import Foundation
 
@@ -75,17 +77,3 @@ func main(args: [String]) {
 
 main(args)
 
-
-
-
-
-    
-    
-
-//|  |  |  |  |  |  |
-//|  |  |  |  |  |  |
-//|  |  |  |  |  |  |
-//|  |  |  |  |  |  |
-//|  |  |  |  |  |  |
-//|X |  |  |  |  |  |
-//-------------------
